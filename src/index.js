@@ -1,3 +1,5 @@
+// Copying https://stackblitz.com/edit/sample-app-mirror?file=models%2FappModel.js
+
 import React, { Component } from "react";
 import styled from "styled-components";
 import mirror, { actions, connect, render } from "mirrorx";
